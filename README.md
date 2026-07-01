@@ -1,4 +1,4 @@
-# FirstAiCall - Local LLM and RAG POC
+# AIConsolePOC - Local LLM and RAG POC
 
 This repository is a proof of concept for running LLM workflows locally from .NET console applications. It starts with a basic Semantic Kernel chat call to Ollama, then expands into Retrieval-Augmented Generation (RAG) using local markdown files, embeddings, vector similarity, and two different .NET AI orchestration libraries.
 
